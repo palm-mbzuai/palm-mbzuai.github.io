@@ -134,7 +134,7 @@ author_profile: false
   <div class="member-card">
     <div class="member-name">Tatsuki Kuribayashi</div>
     <div class="member-role">Assistant Professor</div>
-    <div class="member-research">NLP, cognitive modeling</div>
+    <div class="member-research">NLP, Cognitive modeling</div>
     <div class="member-icons">
       <div class="member-email">
         <a href="mailto:Tatsuki.Kuribayashi@mbzuai.ac.ae">
@@ -148,8 +148,25 @@ author_profile: false
         <a href="https://scholar.google.co.jp/citations?user=-bqmkaAAAAAJ" target="_blank" rel="noopener noreferrer">
           <i class="fas fa-graduation-cap scholar-icon"></i>
         </a>
-        <a href="https://github.com/kuribayashi4" target="_blank" rel="noopener noreferrer">
-          <i class="fab fa-github github-icon"></i>
+      </div>
+    </div>
+  </div>
+    <div class="member-card">
+    <div class="member-name">Junlin Li</div>
+    <div class="member-role">Postdoc</div>
+    <div class="member-research">Cognitive modeling, Empathetic conversation</div>
+    <div class="member-icons">
+      <div class="member-email">
+        <a href="mailto:Junlin.Li@mbzuai.ac.ae">
+          <i class="fas fa-envelope"></i>
+        </a>
+      </div>
+      <div class="member-website">
+        <a href="https://chunlam97.github.io/junlin.github.io/" target="_blank" rel="noopener noreferrer">
+          <i class="fas fa-globe website-icon"></i>
+        </a>
+        <a href="https://scholar.google.com/citations?user=4YucwW4AAAAJ&hl=en" target="_blank" rel="noopener noreferrer">
+          <i class="fas fa-graduation-cap scholar-icon"></i>
         </a>
       </div>
     </div>
@@ -161,7 +178,7 @@ author_profile: false
   <div class="member-card">
     <div class="member-name">Rendi Chevi</div>
     <div class="member-role">PhD Student</div>
-    <div class="member-research"></div>
+    <div class="member-research">NLP, Social computing</div>
     <div class="member-icons">
       <div class="member-email">
         <a href="mailto:Rendi.Chevi@mbzuai.ac.ae">
@@ -169,6 +186,9 @@ author_profile: false
         </a>
       </div>
       <div class="member-website">
+              <a href="https://reneren.com/home_en.html" target="_blank" rel="noopener noreferrer">
+          <i class="fas fa-globe website-icon"></i>
+        </a>
         <a href="https://scholar.google.com/citations?user=gU1JEeYAAAAJ" target="_blank" rel="noopener noreferrer">
           <i class="fas fa-graduation-cap scholar-icon"></i>
         </a>
@@ -205,7 +225,7 @@ author_profile: false
   <div class="member-card">
     <div class="member-name">Sara Alhajeri</div>
     <div class="member-role">MSc student</div>
-    <div class="member-research"></div>
+    <div class="member-research">Interpretability, Computational Psycholinguistics</div>
     <div class="member-icons">
       <div class="member-email">
         <a href="mailto:Sara.Alhajeri@mbzuai.ac.ae">
