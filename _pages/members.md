@@ -154,7 +154,7 @@ author_profile: false
     <div class="member-card">
     <div class="member-name">Junlin Li</div>
     <div class="member-role">Postdoc</div>
-    <div class="member-research">Cognitive modeling, Empathetic conversation</div>
+    <div class="member-research">Computational Psycholinguistics, Arabic Linguistics</div>
     <div class="member-icons">
       <div class="member-email">
         <a href="mailto:Junlin.Li@mbzuai.ac.ae">

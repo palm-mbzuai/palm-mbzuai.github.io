@@ -30,8 +30,8 @@ If you are interested in MSc/PhD opportunities for 2026 admission, you should di
 <style>
 .news-grid {
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
-  gap: 20px;
+  grid-template-columns: 1fr;
+  gap: 14px;
   margin: 20px 0;
 }
 
@@ -121,19 +121,116 @@ If you are interested in MSc/PhD opportunities for 2026 admission, you should di
 
 <div class="news-grid">
 
-  <div class="news-card news-achievement">
+ <div class="news-card news-publication">
     <div class="news-content-wrapper">
-      <div class="news-date">CPL 2025</div>
-      <div class="news-actual-date">Dec. 2025</div>
-      <div class="news-content">1 oral presentation will be made in Computational Psycholinguistics Meeting 2025 [<a href="https://cpl2025.sites.uu.nl/accepted-submissions/">web</a>]</div>
+      <div class="news-date"><a href="https://2026.aclweb.org/">ACL 2026</a></div>
+      <div class="news-actual-date">Jul. 2026</div>
+      <div class="news-content">5 papers with our members have been accepted:
+      <ul>
+            <li>Ryo Yoshida, Shinnosuke Isono, Taiga Someya, Yohei Oseki, <u>Tatsuki Kuribayashi</u>.<br>
+              "An Existence Proof for Language Models That Can Explain Garden-Path Effects via Surprisal." (main conf.)
+          </li>
+          <li>Ruoxi Ning, Yongpeng Zhu, Qingcheng Zeng, <u>Tatsuki Kuribayashi</u>, Freda Shi.<br>
+                "On the Effect of Hyperparameters in Language Modeling for Computational Linguistics." (main conf.)
+          </li>
+          <li><u>Tatsuki Kuribayashi</u>, Alex Warstadt, Yohei Oseki, Ethan Gotlieb Wilcox.<br>
+              "Dual Alignment Between Language Model Layers and Human Sentence Processing." (main conf.)
+          </li>
+          <li>Saeed Almheiri, Bilal Elbouardi, Salsabila Zahirah Pranida, Irina Nikishina, Ashwath Rao B, Parameswari Krishnamurthy, Muhammad Cendekia Airlangga, Rifo Ahmad Genadi, Nguyễn Phan Gia Bảo, Amir Hossein Yari, Hawau Olamide Toyin, Nurdaulet Mukhituly, Mena Attia, Besher Hassan, Ahmad Fathan Hidayatullah, <u>Tatsuki Kuribayashi</u>, Haonan Li, Suma Bhat, Fajri Koto.<br>
+          "Multilingual Idioms in Sentences and Conversations Across High-, Medium-, and Low-Resource Languages." (main conf.)
+          </li>
+          <li>
+          <u> Junlin Li</u>, David Robert Reich, Yu-yin Hsu.
+          <br>"Lending Eyesight to Language Models: Modeling and Probing Human scanpath through Transformer Decoder." (Findings) 
+          </li>
+      </ul>
+      </div>
+    </div>
+  </div>
+
+   <div class="news-card news-publication">
+    <div class="news-content-wrapper">
+      <div class="news-date"><a href="https://www.aied-conference.org/2026">AIED 2026</a></div>
+      <div class="news-actual-date">Jul. 2026</div>
+      <div class="news-content">1 paper with our member has been accepted:
+      <ul>
+          <li> Alham Fikri Aji, Afifa Amriani, <u>Rendi Chevi</u>, Ayu Purwarianti, Derry Wijaya.<br>
+            "AI Misconception and Adoption Among Indonesian K-12 Teachers."
+          </li>
+      </ul>
+      </div>
     </div>
   </div>
 
   <div class="news-card news-publication">
     <div class="news-content-wrapper">
-      <div class="news-date">NeurIPS 2025</div>
+      <div class="news-date"><a href="https://sites.google.com/view/cmclworkshop/home">CMCL 2026</a></div>
+      <div class="news-actual-date">Mar. 2026</div>
+      <div class="news-content">1 paper with our member has been accepted:
+      <ul>
+      <li>
+      Nadine El-Naggar, <u>Tatsuki Kuribayashi</u>, Ted Briscoe.<br>"What Kind of Language is Easy to Language-Model Under Curriculum Learning?"
+      </li>
+      </ul>
+      </div>
+    </div>
+  </div>
+
+  <div class="news-card news-publication">
+    <div class="news-content-wrapper">
+      <div class="news-date"><a href="https://2026.eacl.org/">EACL 2026</a></div>
+      <div class="news-actual-date">Mar. 2026</div>
+      <div class="news-content">1 paper with our member has been accepted:
+      <ul>
+      <li>
+     (Findings) Keito Kudo, Yoichi Aoki, <u>Tatsuki Kuribayashi</u>, Shusaku Sone, Masaya Taniguchi, Ana Brassard, Keisuke Sakaguchi, Kentaro Inui.<br>
+      "LLMs Faithfully and Iteratively Compute Answers During CoT: A Systematic Analysis With Multi-step Arithmetics."
+      </li>
+      </ul>
+      </div>
+    </div>
+  </div>
+
+  <div class="news-card news-highlight">
+    <div class="news-content-wrapper">
+      <div class="news-date">New member</div>
+      <div class="news-actual-date">Feb. 2026</div>
+      <div class="news-content"><a href="https://chunlam97.github.io/junlin.github.io/">Dr. Junlin Li</a> has joined as a Postdoc!</div>
+    </div>
+  </div>
+
+  <div class="news-card news-highlight">
+    <div class="news-content-wrapper">
+      <div class="news-date">Visitor</div>
+      <div class="news-actual-date">Jan. 3--Jan. 19, 2026</div>
+      <div class="news-content"><a href="https://tani.cc/">Dr. Masaya Taniguchi (RIKEN)</a> visited our team!</div>
+    </div>
+  </div>
+
+  <div class="news-card news-achievement">
+    <div class="news-content-wrapper">
+      <div class="news-date"><a href="https://cpl2025.sites.uu.nl/accepted-submissions/">CPL 2025</a></div>
       <div class="news-actual-date">Dec. 2025</div>
-      <div class="news-content">1 paper will be presented in NeurIPS [paper to appear]</div>
+      <div class="news-content">1 oral presentation has been made in Computational Psycholinguistics Meeting 2025
+      <ul>
+      <li>
+      <u>Tatsuki Kuribayashi</u>, Yohei Oseki, Souhaib Ben Taieb, Kentaro Inui, Timothy Baldwin.<br>"Large Language Models Are Human-Like Internally."
+      </li>
+      </ul>
+      </div>
+    </div>
+  </div>
+
+  <div class="news-card news-publication">
+    <div class="news-content-wrapper">
+      <div class="news-date"><a href="https://neurips.cc/virtual/2025/loc/san-diego/papers.html">NeurIPS 2025</a></div>
+      <div class="news-actual-date">Dec. 2025</div>
+      <div class="news-content">1 paper with our member ahs been accepted by NeurIPS
+      <ul>
+      <li>Mengyu Ye, Jun Suzuki, Tatsuro Inaba, <u>Tatsuki Kuribayashi</u>.<br>"Transformer Key-Value Memories Are Nearly as Interpretable as Sparse Autoencoders."
+      </li>
+      </ul>
+      </div>
     </div>
   </div>
 
@@ -141,7 +238,33 @@ If you are interested in MSc/PhD opportunities for 2026 admission, you should di
     <div class="news-content-wrapper">
       <div class="news-date">EMNLP 2025</div>
       <div class="news-actual-date">Nov. 2025</div>
-      <div class="news-content">1 TACL and 1 EMNLP main paper will be presented in EMNLP 2025 [<a href="https://arxiv.org/abs/2502.01615">paper</a> | <a href="https://arxiv.org/abs/2510.12722">paper</a>]</div>
+      <div class="news-content">1 EMNLP main paper with our member has been accepted by EMNLP 2025.
+      <ul>
+      <li>
+      Nadine El-Naggar, <u>Tatsuki Kuribayashi</u>, Ted Briscoe.<br>
+      "Which Word Orders Facilitate Length Generalization in LMs? An Investigation with GCG-Based Artificial Languages." (main conf.)
+      </li>
+      </ul>
+      1 TACL paper will also be presented in EMNLP 2025.
+      <ul>
+            <li>
+      <u>Tatsuki Kuribayashi</u>, Yohei Oseki, Souhaib Ben Taieb, Kentaro Inui, Timothy Baldwin.<br>"Large Language Models Are Human-Like Internally."
+      </li>
+      </ul>
+      </div>
+    </div>
+  </div>
+
+  <div class="news-card news-publication">
+    <div class="news-content-wrapper">
+      <div class="news-date">TACL</div>
+      <div class="news-actual-date">Oct. 2025</div>
+      <div class="news-content">1 paper with our member has been accepted:
+      <ul>
+          <li> Tianyang Xu, <u>Tatsuki Kuribayashi</u>, Yohei Oseki, Ryan Cotterell, Alex Warstadt.<br>"Can Language Models Learn Typologically Implausible Languages?"
+          </li>
+      </ul>
+      </div>
     </div>
   </div>
 
