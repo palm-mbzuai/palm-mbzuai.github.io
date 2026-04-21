@@ -165,7 +165,7 @@ If you are interested in MSc/PhD opportunities for 2026 admission, you should di
   <div class="news-card news-publication">
     <div class="news-content-wrapper">
       <div class="news-date"><a href="https://sites.google.com/view/cmclworkshop/home">CMCL 2026</a></div>
-      <div class="news-actual-date">Mar. 2026</div>
+      <div class="news-actual-date">May. 2026</div>
       <div class="news-content">1 paper with our member has been accepted:
       <ul>
       <li>
