@@ -125,7 +125,7 @@ If you are interested in MSc/PhD opportunities for 2026 admission, you should di
     <div class="news-content-wrapper">
       <div class="news-date"><a href="https://2026.aclweb.org/">ACL 2026</a></div>
       <div class="news-actual-date">Jul. 2026</div>
-      <div class="news-content">5 papers with our members have been accepted:
+      <div class="news-content">5 papers involving our members have been accepted:
       <ul>
             <li>Ryo Yoshida, Shinnosuke Isono, Taiga Someya, Yohei Oseki, <u>Tatsuki Kuribayashi</u>.<br>
               "An Existence Proof for Language Models That Can Explain Garden-Path Effects via Surprisal." (main conf.)
@@ -152,7 +152,7 @@ If you are interested in MSc/PhD opportunities for 2026 admission, you should di
     <div class="news-content-wrapper">
       <div class="news-date"><a href="https://www.aied-conference.org/2026">AIED 2026</a></div>
       <div class="news-actual-date">Jul. 2026</div>
-      <div class="news-content">1 paper with our member has been accepted:
+      <div class="news-content">1 paper involving our member has been accepted:
       <ul>
           <li> Alham Fikri Aji, Afifa Amriani, <u>Rendi Chevi</u>, Ayu Purwarianti, Derry Wijaya.<br>
             "AI Misconception and Adoption Among Indonesian K-12 Teachers."
@@ -166,7 +166,7 @@ If you are interested in MSc/PhD opportunities for 2026 admission, you should di
     <div class="news-content-wrapper">
       <div class="news-date"><a href="https://sites.google.com/view/cmclworkshop/home">CMCL 2026</a></div>
       <div class="news-actual-date">May. 2026</div>
-      <div class="news-content">1 paper with our member has been accepted:
+      <div class="news-content">1 paper involving our member has been accepted:
       <ul>
       <li>
       Nadine El-Naggar, <u>Tatsuki Kuribayashi</u>, Ted Briscoe.<br>"What Kind of Language is Easy to Language-Model Under Curriculum Learning?"
@@ -180,7 +180,7 @@ If you are interested in MSc/PhD opportunities for 2026 admission, you should di
     <div class="news-content-wrapper">
       <div class="news-date"><a href="https://2026.eacl.org/">EACL 2026</a></div>
       <div class="news-actual-date">Mar. 2026</div>
-      <div class="news-content">1 paper with our member has been accepted:
+      <div class="news-content">1 paper involving our member has been accepted:
       <ul>
       <li>
      (Findings) Keito Kudo, Yoichi Aoki, <u>Tatsuki Kuribayashi</u>, Shusaku Sone, Masaya Taniguchi, Ana Brassard, Keisuke Sakaguchi, Kentaro Inui.<br>
@@ -225,7 +225,7 @@ If you are interested in MSc/PhD opportunities for 2026 admission, you should di
     <div class="news-content-wrapper">
       <div class="news-date"><a href="https://neurips.cc/virtual/2025/loc/san-diego/papers.html">NeurIPS 2025</a></div>
       <div class="news-actual-date">Dec. 2025</div>
-      <div class="news-content">1 paper with our member ahs been accepted by NeurIPS
+      <div class="news-content">1 paper involving our member ahs been accepted by NeurIPS
       <ul>
       <li>Mengyu Ye, Jun Suzuki, Tatsuro Inaba, <u>Tatsuki Kuribayashi</u>.<br>"Transformer Key-Value Memories Are Nearly as Interpretable as Sparse Autoencoders."
       </li>
@@ -238,7 +238,7 @@ If you are interested in MSc/PhD opportunities for 2026 admission, you should di
     <div class="news-content-wrapper">
       <div class="news-date">EMNLP 2025</div>
       <div class="news-actual-date">Nov. 2025</div>
-      <div class="news-content">1 EMNLP main paper with our member has been accepted by EMNLP 2025.
+      <div class="news-content">1 EMNLP main paper involving our member has been accepted by EMNLP 2025.
       <ul>
       <li>
       Nadine El-Naggar, <u>Tatsuki Kuribayashi</u>, Ted Briscoe.<br>
@@ -259,7 +259,7 @@ If you are interested in MSc/PhD opportunities for 2026 admission, you should di
     <div class="news-content-wrapper">
       <div class="news-date">TACL</div>
       <div class="news-actual-date">Oct. 2025</div>
-      <div class="news-content">1 paper with our member has been accepted:
+      <div class="news-content">1 paper involving our member has been accepted:
       <ul>
           <li> Tianyang Xu, <u>Tatsuki Kuribayashi</u>, Yohei Oseki, Ryan Cotterell, Alex Warstadt.<br>"Can Language Models Learn Typologically Implausible Languages?"
           </li>
