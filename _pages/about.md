@@ -225,7 +225,7 @@ If you are interested in MSc/PhD opportunities for 2026 admission, you should di
     <div class="news-content-wrapper">
       <div class="news-date"><a href="https://neurips.cc/virtual/2025/loc/san-diego/papers.html">NeurIPS 2025</a></div>
       <div class="news-actual-date">Dec. 2025</div>
-      <div class="news-content">1 paper involving our member ahs been accepted by NeurIPS
+      <div class="news-content">1 paper involving our member has been accepted by NeurIPS
       <ul>
       <li>Mengyu Ye, Jun Suzuki, Tatsuro Inaba, <u>Tatsuki Kuribayashi</u>.<br>"Transformer Key-Value Memories Are Nearly as Interpretable as Sparse Autoencoders."
       </li>
