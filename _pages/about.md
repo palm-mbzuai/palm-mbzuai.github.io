@@ -183,8 +183,8 @@ If you are interested in MSc/PhD opportunities for 2026 admission, you should di
       <div class="news-content">1 paper involving our member has been accepted:
       <ul>
       <li>
-     (Findings) Keito Kudo, Yoichi Aoki, <u>Tatsuki Kuribayashi</u>, Shusaku Sone, Masaya Taniguchi, Ana Brassard, Keisuke Sakaguchi, Kentaro Inui.<br>
-      "LLMs Faithfully and Iteratively Compute Answers During CoT: A Systematic Analysis With Multi-step Arithmetics."
+     Keito Kudo, Yoichi Aoki, <u>Tatsuki Kuribayashi</u>, Shusaku Sone, Masaya Taniguchi, Ana Brassard, Keisuke Sakaguchi, Kentaro Inui.<br>
+      "LLMs Faithfully and Iteratively Compute Answers During CoT: A Systematic Analysis With Multi-step Arithmetics." (Findings) 
       </li>
       </ul>
       </div>
