@@ -128,7 +128,7 @@ If you are interested in MSc/PhD opportunities for 2026 admission, you should di
       <div class="news-content">5 papers involving our members have been accepted:
       <ul>
             <li>Ryo Yoshida, Shinnosuke Isono, Taiga Someya, Yohei Oseki, <u>Tatsuki Kuribayashi</u>.<br>
-              "An Existence Proof for Language Models That Can Explain Garden-Path Effects via Surprisal." (main conf.)
+              "An Existence Proof for Neural Language Models That Can Explain Garden-Path Effects via Surprisal." (main conf.)
           </li>
           <li>Ruoxi Ning, Yongpeng Zhu, Qingcheng Zeng, <u>Tatsuki Kuribayashi</u>, Freda Shi.<br>
                 "On the Effect of Hyperparameters in Language Modeling for Computational Linguistics." (main conf.)
