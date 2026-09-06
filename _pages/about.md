@@ -121,6 +121,29 @@ If you are interested in MSc/PhD opportunities for 2026 admission, you should di
 
 <div class="news-grid">
 
+  <div class="news-card news-publication">
+    <div class="news-content-wrapper">
+      <div class="news-date">EMNLP 2026</div>
+      <div class="news-actual-date">Sep. 2026</div>
+      <div class="news-content">4 main conference long papers involving our members have been accepted by EMNLP 2026.
+      <ul>
+        <li><u>Junlin Li</u>, Sara Alhajeri, <u>Tatsuki Kuribayashi</u>.<br>
+          "Reading Time Modeling with Pixel-Based Language Models."
+        </li>
+        <li>Nadine El-Naggar, <u>Tatsuki Kuribayashi</u>, Ted Briscoe.<br>
+          "Typological Alignment of Stack-Based Language Models on Mildly Context-Sensitive Artificial Languages."
+        </li>
+        <li>Kohei Kajikawa, Lin Ai, <u>Tatsuki Kuribayashi</u>, Ethan Gotlieb Wilcox.<br>
+          "Using Language Models to Model the Effects of Context and Coreference during Sentence Comprehension."
+        </li>
+        <li>Shin Yamaguchi, Masaya Taniguchi, <u>Tatsuki Kuribayashi</u>, Taro Watanabe, Yoshinobu Kano.<br>
+          "Once a Tree, Always a Tree? Cross-lingual Transfer of Hierarchical Generalization in Language Models."
+        </li>
+      </ul>
+      </div>
+    </div>
+  </div>
+
  <div class="news-card news-publication">
     <div class="news-content-wrapper">
       <div class="news-date"><a href="https://2026.aclweb.org/">ACL 2026</a></div>
